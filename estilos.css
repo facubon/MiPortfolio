@@ -379,8 +379,8 @@ body{
 
    @media only screen and (max-width: 600px) {
     img , figure {
-        
         max-width:100%;
+        max-height:auto;
     }
    }
 
