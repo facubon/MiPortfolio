@@ -350,6 +350,12 @@ body{
 
 
 
+
+
+
+    /*---keyframes -----*/
+
+
     @keyframes circulo1{
         from{
             transform:rotate(0deg) scale(2);
@@ -367,3 +373,14 @@ body{
             opacity: 1;
             transform: translateY(0);}
     }
+
+
+    /* ----MEDIA QUERYES -------*/
+
+   @media only screen and (max-width: 600px) {
+    img , figure {
+        
+        max-width:100%;
+    }
+   }
+
