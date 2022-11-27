@@ -94,9 +94,9 @@ body{
     text-decoration: none;
     display: none;
 }
-.header .h1{
+
     
-}
+
 .header .h1 .a{
     text-decoration: none;
 }
@@ -219,7 +219,7 @@ body{
     animation: aparecer1 2s ease 1 both;
 }
 
-.seccion .p{}
+
 .seccion .grid{
     width: 90%;
     max-width:45em;
@@ -241,7 +241,7 @@ body{
     position: relative;
     overflow: hidden;
 }
-.seccion .a{}
+
 .seccion .figure{
     width: 100%;
     
@@ -283,8 +283,7 @@ body{
     font-size: 20px;
     animation: aparecer1 2s ease 1 both;
 }
-.abaout{}
-.abaout .h2{}
+
 .about .p{
     max-width: 40rem;
     margin:0 0 2rem;
@@ -307,7 +306,7 @@ body{
     margin: 0 1em;
     
 }
-.about .li .a{}
+
 .about  .svg{
     width: 2.5em;
     height: 2.5em;
@@ -330,7 +329,7 @@ body{
     
     
 }
-.footer .spam{}
+
 
 .works{
     box-shadow: 0 0 10em 10em white;
